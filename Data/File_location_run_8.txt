@@ -1,0 +1,6 @@
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_A1.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_A2.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_A3.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_B1.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_B2.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run8_ch2_B3.txt

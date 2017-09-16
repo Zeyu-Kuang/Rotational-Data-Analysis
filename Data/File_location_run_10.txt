@@ -1,0 +1,11 @@
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-0.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-1.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-2.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-3.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-4.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-5.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-6.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-7.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-8.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-9.txt
+/home/ubuntu1/Downloads/ipython/Zeyu/Rotational Data Analysis/Data/original/run-10-converted-L-2ch-10.txt
