@@ -35,7 +35,7 @@ Further analysis of  data of a year length will generate more accurate result
 
 Optimization of DLS in run 8&9 and 11:
 
-<img src="https://github.com/kzy2142/Rotational-Data-Analysis/blob/master/Images/Optimization.png" width="600" height="300">
+<img src="https://github.com/kzy2142/Rotational-Data-Analysis/blob/master/Images/Optimization.png" width="450" height="225">
 
 We also studied the noise level in the data at different frequencies:
 
