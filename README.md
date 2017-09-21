@@ -16,7 +16,7 @@ Rotational Table:
 <img src="https://github.com/kzy2142/Rotational-Data-Analysis/blob/master/Images/rotation_experiment.png" width="200" height="150">
 
 
-More information can be found in my summary: https://drive.google.com/open?id=0B0WjPWir-kYha2x6T3lpMGp5eFE
+More information can be found in my summary of data analysis: https://drive.google.com/open?id=0B0WjPWir-kYha2x6T3lpMGp5eFE
 
 
 ## Motivation
@@ -39,7 +39,7 @@ Optimization of DLS in run 8&9 and 11:
 
 We also studied the noise level in the data at different frequencies:
 
-<img src="https://github.com/kzy2142/Rotational-Data-Analysis/blob/master/Images/compareRunsSubplots.png" width="600" height="300">
+<img src="https://github.com/kzy2142/Rotational-Data-Analysis/blob/master/Images/compareRuns.png" width="600" height="300">
 
 A potential source of fluctuation of the current experiment is the magnetic field in the laboratory. Further effort has been put on this area to monitor the magnetic field in the laboratory.
 
